@@ -1,3 +1,17 @@
+# Context Graph UI
+
+A hybrid retrieval system combining **Graph Databases (Neo4j)** and **Vector Search** to deliver context-aware, relationship-driven insights.
+
+This project demonstrates how to:
+- Combine structured relationships (Graph DB) with semantic search (Vector DB)
+- Build intelligent retrieval systems beyond traditional RAG
+- Visualize entity relationships through an interactive UI
+
+🚀 Ideal for use cases like:
+- HR intelligence systems
+- Knowledge graphs
+- Context-aware search applications
+
 ## ⚙️ Setup & Run Instructions
 
 Follow the steps below to run the Context Graph UI project locally.
